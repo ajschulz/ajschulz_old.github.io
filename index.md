@@ -11,7 +11,7 @@
 
 {% capture text %}
 
-I have collaborated and written first-author manuscripts on a variety of topics covering evolutionary genetics, machine learning, and quantitative genetics.
+I have collaborated with and written first-author manuscripts on a variety of topics covering evolutionary genetics, machine learning, and quantitative genetics.
 
 {%
   include button.html
@@ -34,7 +34,7 @@ I have collaborated and written first-author manuscripts on a variety of topics 
 
 {% capture text %}
 
-My current projects largely look at the Andropogoneae, gene model annotations, and the genetics of perenniality. 
+My current projects investigate plant competition dynamics, the genetics of perenniality, and how to leverage evolution and machine learning to evaluate gene model annotations. 
 
 {%
   include button.html
