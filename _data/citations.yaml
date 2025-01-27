@@ -1,5 +1,57 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1101/2025.01.22.633974
+  title: Extensive genome evolution distinguishes maize within a stable tribe of grasses
+  authors:
+  - Michelle C Stitzer
+  - Arun S Seetharam
+  - Armin Scheben
+  - Sheng-Kai Hsu
+  - Aimee J Schulz
+  - Taylor AuBuchon-Elder
+  - Mohamed El-Walid
+  - Taylor H Ferebee
+  - Charles O Hale
+  - Thuy La
+  - Zong-Yan Liu
+  - Sarah J McMorrow
+  - Patrick Minx
+  - Alyssa Phillips
+  - Michael Syring
+  - Travis Wrightsman
+  - Jingjing Zhai
+  - "R\xE9my Pasquet"
+  - Christine McAllister
+  - Simon Malcomber
+  - Paweena Traiperm
+  - Daniel Layton
+  - Jinshun Zhong
+  - Denise E Costich
+  - R Kelly Dawe
+  - Kevin Fengler
+  - Charlotte Harris
+  - Zach Irelan
+  - Victor Llaca
+  - Praveena Parakkal
+  - Gina Zastrow-Hayes
+  - Margaret R Woodhouse
+  - Ethalinda KS Cannon
+  - John Portwood
+  - Carson M Andorf
+  - Patrice S Albert
+  - James A Birchler
+  - Adam Siepel
+  - Jeffrey Ross-Ibarra
+  - M Cinta Romay
+  - Elizabeth Kellogg
+  - Edward S. Buckler
+  - Matthew Hufford
+  publisher: Cold Spring Harbor Laboratory
+  date: '2025-01-24'
+  link: https://doi.org/g826ms
+  orcid: 0000-0002-3709-9898
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1101/2024.06.03.597142
   title: 'Contrasting Rhizosphere Nitrogen Dynamics in Andropogoneae Grasses: Implications
     for Sustainable Agriculture'
